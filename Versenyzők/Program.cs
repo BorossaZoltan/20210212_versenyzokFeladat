@@ -100,6 +100,7 @@ namespace Versenyzők
             }
         }
 
+
         private static void negyedikFeladat()
         {
             Console.WriteLine("4. Feladat: "+lista[lista.Count-1].Nev);
